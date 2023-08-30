@@ -1,0 +1,14 @@
+F:\Projects\Hospital\Hospital.Repository\bin\Debug\net6.0\Hospital.Repositories.deps.json
+F:\Projects\Hospital\Hospital.Repository\bin\Debug\net6.0\Hospital.Repositories.dll
+F:\Projects\Hospital\Hospital.Repository\bin\Debug\net6.0\Hospital.Repositories.pdb
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\Hospital.Repositories.csproj.AssemblyReference.cache
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\Hospital.Repositories.AssemblyInfoInputs.cache
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\Hospital.Repositories.AssemblyInfo.cs
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\Hospital.Repositories.dll
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\refint\Hospital.Repositories.dll
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\Hospital.Repositories.pdb
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\ref\Hospital.Repositories.dll
+F:\Projects\Hospital\Hospital.Repository\bin\Debug\net6.0\Hospital.Repositories.runtimeconfig.json
+F:\Projects\Hospital\Hospital.Repository\obj\Debug\net6.0\Hospital.Repositories.genruntimeconfig.cache
