@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ArCAW7BXzOB1eDXzEVacz4R90sJjeMsNyS0h4mZdBZPyDYPK/4WENZu2FJ/rUn8gwvIVJR3Gq7ivm2kwotS80g==",
+  "dgSpecHash": "LnHmcEE+zNl7J0HXmrBD52IM6wiXhpCy60djM9o9O8QI9vGL/bsw4EpJXXzxcHGC4Ynua7WSpiB8x8OPeYj9PA==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\Hospital\\Hospital.Repository\\Hospital.Repositories.csproj",
+  "projectFilePath": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jannat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Jannat\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.21\\microsoft.aspnetcore.cryptography.internal.6.0.21.nupkg.sha512",

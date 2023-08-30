@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\Hospital\\Hospital.Services\\Hospital.Services.csproj": {}
+    "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Services\\Hospital.Services.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\Hospital\\Hospital.Services\\Hospital.Services.csproj": {
+    "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Services\\Hospital.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Hospital\\Hospital.Services\\Hospital.Services.csproj",
+        "projectUniqueName": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Services\\Hospital.Services.csproj",
         "projectName": "Hospital.Services",
-        "projectPath": "F:\\Projects\\Hospital\\Hospital.Services\\Hospital.Services.csproj",
+        "projectPath": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Services\\Hospital.Services.csproj",
         "packagesPath": "C:\\Users\\Jannat\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Hospital\\Hospital.Services\\obj\\",
+        "outputPath": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jannat\\AppData\\Roaming\\NuGet\\NuGet.Config",

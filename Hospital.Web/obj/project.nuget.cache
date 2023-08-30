@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lbCwzjQnbmHatiApB/9BGDaevo+G/ev/N7Ka1YS+ay71RbyUEENW+BKhbProgitVDtGSZ0Ukz/+V5C2gykiyAQ==",
+  "dgSpecHash": "7z7c77Lho3rc7V0qV7GmmB/hiwO4neQy1W7ibnAD1O2ioL8gCDRORnR9CsYODTEkoB9OVNVlStg/9l+n07vbaw==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\Hospital\\Hospital.Web\\Hospital.Web.csproj",
+  "projectFilePath": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Web\\Hospital.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jannat\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Jannat\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

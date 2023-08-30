@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\Hospital\\Hospital.Web\\Hospital.Web.csproj": {}
+    "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Web\\Hospital.Web.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\Hospital\\Hospital.Repository\\Hospital.Repositories.csproj": {
+    "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Hospital\\Hospital.Repository\\Hospital.Repositories.csproj",
+        "projectUniqueName": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj",
         "projectName": "Hospital.Repositories",
-        "projectPath": "F:\\Projects\\Hospital\\Hospital.Repository\\Hospital.Repositories.csproj",
+        "projectPath": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj",
         "packagesPath": "C:\\Users\\Jannat\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Hospital\\Hospital.Repository\\obj\\",
+        "outputPath": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jannat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "F:\\Projects\\Hospital\\Hospital.Web\\Hospital.Web.csproj": {
+    "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Web\\Hospital.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Hospital\\Hospital.Web\\Hospital.Web.csproj",
+        "projectUniqueName": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Web\\Hospital.Web.csproj",
         "projectName": "Hospital.Web",
-        "projectPath": "F:\\Projects\\Hospital\\Hospital.Web\\Hospital.Web.csproj",
+        "projectPath": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Web\\Hospital.Web.csproj",
         "packagesPath": "C:\\Users\\Jannat\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Hospital\\Hospital.Web\\obj\\",
+        "outputPath": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jannat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projects\\Hospital\\Hospital.Repository\\Hospital.Repositories.csproj": {
-                "projectPath": "F:\\Projects\\Hospital\\Hospital.Repository\\Hospital.Repositories.csproj"
+              "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj": {
+                "projectPath": "F:\\SOMAIYA JANNAT\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj"
               }
             }
           }
